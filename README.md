@@ -6,7 +6,7 @@ An API that schedules missions  to any of the potentially habitable exoplanets c
 
 ## Implementation
 
-Built in NodeJs running in a local server.
+Built in NodeJs and ExpressJs running in a local server.
 
 ## Steps Involved
 - Apply MVC model architecture to structure code.
